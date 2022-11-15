@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.duartesgoncalves.designpatterns.StringInverterTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-11-15T10:25:46" hostname="FEUP-B103D02" time="0.002">
+  <properties/>
+  <testcase name="stringInverter()" classname="com.duartesgoncalves.designpatterns.StringInverterTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
