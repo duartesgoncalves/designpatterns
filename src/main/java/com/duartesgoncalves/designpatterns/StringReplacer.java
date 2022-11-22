@@ -19,4 +19,16 @@ public class StringReplacer implements StringTransformer {
 
         string.setText(newString.toString());
     }
+
+    public void undo(StringDrink string) {
+        StringBuilder newString = new StringBuilder();
+        String text = string.getText();
+
+        for (int i = 0; i < text.length(); i++) {
+            if (text.charAt(i) == this.c2) newString.append(c1);
+            else newString.append(text.charAt(i));
+        }
+
+        string.setText(newString.toString());
+    }
 }
