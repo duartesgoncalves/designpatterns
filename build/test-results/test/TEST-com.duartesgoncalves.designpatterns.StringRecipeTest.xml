@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.duartesgoncalves.designpatterns.StringRecipeTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-11-22T20:05:18" hostname="DESKTOP-LVI5H8M" time="0.003">
+<testsuite name="com.duartesgoncalves.designpatterns.StringRecipeTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-11-22T23:02:43" hostname="DESKTOP-LVI5H8M" time="0.001">
   <properties/>
-  <testcase name="transformUndo()" classname="com.duartesgoncalves.designpatterns.StringRecipeTest" time="0.001"/>
-  <testcase name="stringRecipe()" classname="com.duartesgoncalves.designpatterns.StringRecipeTest" time="0.001"/>
+  <testcase name="transformUndo()" classname="com.duartesgoncalves.designpatterns.StringRecipeTest" time="0.0"/>
+  <testcase name="stringRecipe()" classname="com.duartesgoncalves.designpatterns.StringRecipeTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

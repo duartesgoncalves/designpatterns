@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.duartesgoncalves.designpatterns.StringBarTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-11-22T23:02:43" hostname="DESKTOP-LVI5H8M" time="0.002">
+  <properties/>
+  <testcase name="happyHour()" classname="com.duartesgoncalves.designpatterns.StringBarTest" time="0.001"/>
+  <testcase name="orderStringRecipe()" classname="com.duartesgoncalves.designpatterns.StringBarTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

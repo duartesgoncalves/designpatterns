@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.duartesgoncalves.designpatterns.AlienClientTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-11-22T23:02:43" hostname="DESKTOP-LVI5H8M" time="0.031">
+  <properties/>
+  <testcase name="ferengiStartClosed()" classname="com.duartesgoncalves.designpatterns.AlienClientTest" time="0.026"/>
+  <testcase name="ferengiAlreadyOpened()" classname="com.duartesgoncalves.designpatterns.AlienClientTest" time="0.001"/>
+  <testcase name="romulan()" classname="com.duartesgoncalves.designpatterns.AlienClientTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

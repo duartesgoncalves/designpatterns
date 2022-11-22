@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.duartesgoncalves.designpatterns.ObserverTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-11-22T23:02:43" hostname="DESKTOP-LVI5H8M" time="0.466">
+  <properties/>
+  <testcase name="removeObserver()" classname="com.duartesgoncalves.designpatterns.ObserverTest" time="0.459"/>
+  <testcase name="addObserver()" classname="com.duartesgoncalves.designpatterns.ObserverTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
