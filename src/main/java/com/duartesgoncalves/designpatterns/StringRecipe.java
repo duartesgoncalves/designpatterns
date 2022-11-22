@@ -3,7 +3,7 @@ package com.duartesgoncalves.designpatterns;
 import java.util.List;
 
 public class StringRecipe {
-    List<StringTransformer> transformers;
+    private List<StringTransformer> transformers;
 
     public StringRecipe(List<StringTransformer> transformers) {
         this.transformers = transformers;
